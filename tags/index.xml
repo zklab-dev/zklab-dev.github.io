@@ -2,47 +2,47 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on </title>
-    <link>http://foundry.codes/tags/</link>
+    <link>https://foundry.codes/tags/</link>
     <description>Recent content in Tags on </description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     
-	<atom:link href="http://foundry.codes/tags/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://foundry.codes/tags/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Golang</title>
-      <link>http://foundry.codes/tags/golang/</link>
+      <link>https://foundry.codes/tags/golang/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://foundry.codes/tags/golang/</guid>
+      <guid>https://foundry.codes/tags/golang/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Hugo</title>
-      <link>http://foundry.codes/tags/hugo/</link>
+      <link>https://foundry.codes/tags/hugo/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://foundry.codes/tags/hugo/</guid>
+      <guid>https://foundry.codes/tags/hugo/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Programming</title>
-      <link>http://foundry.codes/tags/programming/</link>
+      <link>https://foundry.codes/tags/programming/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://foundry.codes/tags/programming/</guid>
+      <guid>https://foundry.codes/tags/programming/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Theme</title>
-      <link>http://foundry.codes/tags/theme/</link>
+      <link>https://foundry.codes/tags/theme/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://foundry.codes/tags/theme/</guid>
+      <guid>https://foundry.codes/tags/theme/</guid>
       <description></description>
     </item>
     
