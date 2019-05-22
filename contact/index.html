@@ -117,16 +117,37 @@
       <p>We offer professional service to all our clients.</p>
 
       
-      <form id="contactform" method="POST">
-        <input type="text" name="name" placeholder="Your name">
-        <input type="email" name="_replyto" placeholder="Your email">
-        <input type="hidden" name="_subject" value="Website contact" />
-        <textarea name="message" placeholder="Please leave your message here, includes your email, phone."></textarea>
-        <input type="text" name="_gotcha" style="display:none" />
-        <input type="submit" value="Send">
-    </form>
+      
+    <form id="form_65771" class="appnitro"  method="post">
+					
+  <ul >
+  
+      <li id="li_1" >
+<label class="description" for="element_1">Your name </label>
+<div>
+  <input id="element_1" name="element_1" class="element text medium" type="text" maxlength="255" value=""/> 
+</div><p class="guidelines" id="guide_1"><small>Please type your name here</small></p> 
+</li>		<li id="li_2" >
+<label class="description" for="element_2">Email </label>
+<div>
+  <input id="element_2" name="element_2" class="element text medium" type="text" maxlength="255" value=""/> 
+</div> 
+</li>		<li id="li_3" >
+<label class="description" for="element_3">Message </label>
+<div>
+  <textarea id="element_3" name="element_3" class="element textarea medium" ></textarea> 
+</div><p class="guidelines" id="guide_3"><small>Please leave your contact information and message here, it will be delivered into our email directly. Thanks</small></p> 
+</li>
+  
+      <li class="buttons">
+      <input type="hidden" name="form_id" value="65771" />
+      
+    <input id="saveForm" class="button_text" type="submit" name="submit" value="Submit" />
+</li>
+  </ul>
+</form>	
     <script>
-        var contactform =  document.getElementById('contactform');
+        var contactform =  document.getElementById('form_65771');
         contactform.setAttribute('action', '//formspree.io/' + 'contacts' + '@' + 'foundry' + '.' + 'codes');
     </script>
     </div>
